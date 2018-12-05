@@ -4,3 +4,4 @@ hello,this is my first git demo
 第4行
 分支2add了一行
 第6行
+第7行
